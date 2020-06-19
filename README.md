@@ -6,6 +6,6 @@
 ## Descrição do projeto
 
 <p align="justify">
-  Projeto para testar configurações de back-end vizando a melhoria do produto bigodim
+  Projeto para testar configurações de back-end visando a melhoria do produto bigodim
 </p>
 
