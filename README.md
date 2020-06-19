@@ -8,4 +8,3 @@
 <p align="justify">
   Projeto para testar configurações de back-end vizando a melhoria do produto bigodim
 </p>
-
