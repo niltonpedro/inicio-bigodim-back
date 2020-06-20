@@ -1,11 +1,8 @@
 import { Router } from 'express';
+import appointmentRouter from './appointments.routes';
 
 const routes = Router();
 
-routes.get('/', (resquest, response) =>
-  response.json({
-    message: 'Projeto rodando na porta 3333',
-  }),
-);
+routes.use('/appointments', appointmentRouter);
 
 export default routes;
